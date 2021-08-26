@@ -14,11 +14,11 @@ Below are the Word Clouds generated from positive and negative reviews. Both Wor
 ### Word Cloud of Positive Reviews
 ![posWC](plots/posWordCloud.png)
 
-### Word Cloud of Positive Reviews
+### Word Cloud of Negative Reviews
 ![negWC](plots/negWordCloud.png)
 
 Compared to the star ratings, the proportions of positive and negative sentiments per star rating are as expected
-![propSA](plots/SentimentProportions.png)
+![propSA](plots/sentimentProportions.png)
 
 ## Conclusion
 The Sentiment analysis on product reviews added more information about the nature of the reviews in tandem with the star ratings. Furthermore, the distilbert transformer model, finetuned for sentiment analysis, is effective at extracting the sentiment of text sequences. Although this dataset did not offer an opportunity to do so, text sentiment may be added as a useful feature to a predictive model.
