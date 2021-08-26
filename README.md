@@ -17,7 +17,9 @@ Below are the Word Clouds generated from positive and negative reviews. Both Wor
 ### Word Cloud of Negative Reviews
 ![negWC](plots/negWordCloud.png)
 
-Compared to the star ratings, the proportions of positive and negative sentiments per star rating are as expected
+### Distribution of Sentiments across Star Ratings
+Compared to the star ratings, the proportions of positive and negative sentiments per star rating are as expected, as seen below. Very small proportions of 1- and 2-star ratings have positive reviews and very small proportions of 5-star ratings have negative reviews. 3- and 4-star ratings have larger minority proportions of positive and negative reviews, respectively.
+
 ![propSA](plots/sentimentProportions.png)
 
 ## Conclusion
